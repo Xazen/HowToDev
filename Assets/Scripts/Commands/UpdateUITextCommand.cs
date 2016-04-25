@@ -7,7 +7,7 @@ public class UpdateUITextCommand : SlideCommand
     public Text Text;
     public string newText;
 
-    private float textSpeed = 100f;
+    public float textSpeed = 100f;
 
     public override void Execute()
     {

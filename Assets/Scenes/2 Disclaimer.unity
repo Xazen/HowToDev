@@ -372,6 +372,7 @@ MonoBehaviour:
   TriggerWithPrevious: 0
   Text: {fileID: 1238755924}
   newText: Schon irgendwelche Fragen?
+  textSpeed: 100
 --- !u!4 &841612302
 Transform:
   m_ObjectHideFlags: 0
@@ -520,6 +521,7 @@ MonoBehaviour:
   TriggerWithPrevious: 0
   Text: {fileID: 1238755924}
   newText: Hat jemand von euch schon Erfahrungen?
+  textSpeed: 100
 --- !u!1 &908632581
 GameObject:
   m_ObjectHideFlags: 0
@@ -590,6 +592,7 @@ MonoBehaviour:
   TriggerWithPrevious: 0
   Text: {fileID: 1238755924}
   newText: Es soll euch eine allgemein Idee geben.
+  textSpeed: 100
 --- !u!1 &990857958
 GameObject:
   m_ObjectHideFlags: 0
@@ -743,6 +746,7 @@ MonoBehaviour:
   TriggerWithPrevious: 0
   Text: {fileID: 1238755924}
   newText: Ok, los geht's!
+  textSpeed: 100
 --- !u!1 &1138290612
 GameObject:
   m_ObjectHideFlags: 0
@@ -785,6 +789,7 @@ MonoBehaviour:
   TriggerWithPrevious: 0
   Text: {fileID: 1238755924}
   newText: Hallo! Ich bin Dango! Ein paar Worte bevor es losgeht.
+  textSpeed: 100
 --- !u!1 &1156471625
 GameObject:
   m_ObjectHideFlags: 0
@@ -1155,6 +1160,10 @@ Prefab:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1514860754}
+    - target: {fileID: 11478930, guid: 9c58be899d14a454aa236659279a6512, type: 2}
+      propertyPath: m_FontData.m_FontSize
+      value: 20
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9c58be899d14a454aa236659279a6512, type: 2}
   m_IsPrefabParent: 0
@@ -1228,3 +1237,4 @@ MonoBehaviour:
   TriggerWithPrevious: 0
   Text: {fileID: 1238755924}
   newText: Es gibt vergleichsweise wenige Standards.
+  textSpeed: 100

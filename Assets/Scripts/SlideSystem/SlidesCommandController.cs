@@ -68,7 +68,7 @@ public class SlidesCommandController : MonoBehaviour
             // open next scene
             else if (NextSceneBuildIndex != -1)
             {
-                SceneManager.LoadScene(1);
+                SceneManager.LoadScene(NextSceneBuildIndex);
             }
         }
     }

@@ -126,6 +126,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TriggerWithPrevious: 1
   GameObjectToShow: {fileID: 840319715}
+  Duration: 0
 --- !u!1 &38396693
 GameObject:
   m_ObjectHideFlags: 0
@@ -426,6 +427,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TriggerWithPrevious: 0
   GameObjectToShow: {fileID: 1212466629}
+  Duration: 0
 --- !u!1 &238696199
 GameObject:
   m_ObjectHideFlags: 0
@@ -990,8 +992,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 238696200}
   m_RootOrder: 2
-  m_AnchorMin: {x: 0.6209637, y: 0.043924768}
-  m_AnchorMax: {x: 0.9203188, y: 0.15078762}
+  m_AnchorMin: {x: 0.6209637, y: -0.1}
+  m_AnchorMax: {x: 0.9276591, y: 0.15078762}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1014,7 +1016,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 71f48074bdcf4fb4e8b93893d382ca54, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3ec681f9f4efcf64ba8d46d3c65b2f79, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1165,6 +1167,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TriggerWithPrevious: 0
   GameObjectToShow: {fileID: 539734810}
+  Duration: 0
 --- !u!1 &961831573
 GameObject:
   m_ObjectHideFlags: 0
@@ -1292,6 +1295,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TriggerWithPrevious: 0
   GameObjectToShow: {fileID: 1320103399}
+  Duration: 0
 --- !u!1 &1040444255
 GameObject:
   m_ObjectHideFlags: 0
@@ -1713,6 +1717,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TriggerWithPrevious: 0
   GameObjectToShow: {fileID: 573991383}
+  Duration: 0
 --- !u!1 &1308075381
 GameObject:
   m_ObjectHideFlags: 0
@@ -1907,6 +1912,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TriggerWithPrevious: 1
   GameObjectToShow: {fileID: 1308075381}
+  Duration: 0
 --- !u!1 &1379602883
 GameObject:
   m_ObjectHideFlags: 0
@@ -2034,6 +2040,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TriggerWithPrevious: 0
   GameObjectToShow: {fileID: 701236149}
+  Duration: 0
 --- !u!1 &1470482573
 GameObject:
   m_ObjectHideFlags: 0
@@ -2623,6 +2630,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TriggerWithPrevious: 0
   GameObjectToShow: {fileID: 1040444255}
+  Duration: 0
 --- !u!1 &1878780662
 GameObject:
   m_ObjectHideFlags: 0
@@ -2834,6 +2842,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TriggerWithPrevious: 0
   GameObjectToShow: {fileID: 1379602883}
+  Duration: 0
 --- !u!1 &2102566484
 GameObject:
   m_ObjectHideFlags: 0
@@ -3049,3 +3058,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TriggerWithPrevious: 0
   GameObjectToShow: {fileID: 200037595}
+  Duration: 0

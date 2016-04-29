@@ -2260,7 +2260,9 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 10201634, guid: 5b22ef16d4f58974c8257188c6541b16, type: 2}
       propertyPath: m_Text
-      value: Sound Design
+      value: 'Was immer du
+
+        implementierst'
       objectReference: {fileID: 0}
     - target: {fileID: 145076, guid: 5b22ef16d4f58974c8257188c6541b16, type: 2}
       propertyPath: m_Name
@@ -2268,7 +2270,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 6556610, guid: 5b22ef16d4f58974c8257188c6541b16, type: 2}
       propertyPath: m_Size.x
-      value: 40.01
+      value: 43.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 6556610, guid: 5b22ef16d4f58974c8257188c6541b16, type: 2}
+      propertyPath: m_Size.y
+      value: 11.51
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5b22ef16d4f58974c8257188c6541b16, type: 2}

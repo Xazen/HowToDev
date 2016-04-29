@@ -1808,7 +1808,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1861377184}
-  m_Text: Development Process
+  m_Text: Agile Development
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -1943,7 +1943,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1872620024}
-  m_Text: Testing
+  m_Text: Estimations
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1

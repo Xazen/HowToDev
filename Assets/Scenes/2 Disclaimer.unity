@@ -744,7 +744,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TriggerWithPrevious: 0
   Text: {fileID: 1238755924}
-  newText: Ok, los geht's!
+  newText: Los geht's mit Game Design, Programming und Art!
   textSpeed: 100
 --- !u!1 &1138290612
 GameObject:

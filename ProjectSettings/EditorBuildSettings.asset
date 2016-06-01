@@ -34,4 +34,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/8 Joke 3.unity
   - enabled: 1
-    path: Assets/Scenes/9 Noch Fragen.unity
+    path: Assets/Scenes/9 Shoutout.unity
+  - enabled: 1
+    path: Assets/Scenes/10 Noch Fragen.unity

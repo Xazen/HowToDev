@@ -10,11 +10,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/2 Disclaimer.unity
   - enabled: 1
-    path: Assets/Scenes/3 How to be a GDler.unity
+    path: Assets/Scenes/3.1 How to be a GDler.unity
   - enabled: 1
     path: Assets/Scenes/4 Joke.unity
   - enabled: 1
-    path: Assets/Scenes/5 start.unity
+    path: Assets/Scenes/5 Programmer.unity
   - enabled: 1
     path: Assets/Scenes/5.1 kreuzung.unity
   - enabled: 1
@@ -37,3 +37,9 @@ EditorBuildSettings:
     path: Assets/Scenes/9 Shoutout.unity
   - enabled: 1
     path: Assets/Scenes/10 Noch Fragen.unity
+  - enabled: 1
+    path: Assets/Scenes/3 GameDesigner.unity
+  - enabled: 1
+    path: Assets/Scenes/5.0 start.unity
+  - enabled: 1
+    path: Assets/Scenes/7.1 Pictures.unity
